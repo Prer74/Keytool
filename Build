@@ -18,3 +18,11 @@ release {
 signingConfig signingConfigs.release
 }
 }
+
+
+key.properties
+
+keyPassword = 123456
+storPassword = 123456
+keyAlias = upload
+storeFile=C:\Users\exam\Desktop\keytool\keytool\upload-key.jks
